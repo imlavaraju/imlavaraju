@@ -1,5 +1,5 @@
-# 💫 About Me:
-I am a front end developer
+# About Me:
+I am a front-end developer
 
 
 # 💻 Tech Stack:
