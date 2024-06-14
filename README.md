@@ -1,5 +1,5 @@
 <h1 >Hi , I'm Lavaraju</h1>
-<h3>A passionate frontend developer</h3>
+<h3>A passionate Full Stack developer</h3>
 
 
 
