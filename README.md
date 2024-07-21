@@ -2,26 +2,26 @@
 <h3>A passionate Full Stack developer</h3>
 
 
+## 📫 How to Reach Me
+- **Email:** [mymail.com](mailto:imnanilavaraju@example.com)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/lavaraju-gorli/)
+- **GitHub:** [GitHub Profile](https://github.com/imlavaraju)
+
 
 
 
  ## 🏆 Coding Profiles and Stats
 
 ### LeetCode
-[![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/<your_leetcode_username>)](https://leetcode.com/lavarajug)
+[![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/lavarajug)](https://leetcode.com/lavarajug)
 
 ### HackerRank
-[![HackerRank](https://img.shields.io/badge/HackerRank-<your_username>-brightgreen)](https://www.hackerrank.com/inanilavaraju)
+[![HackerRank](https://img.shields.io/badge/HackerRank-imanilavaraju-brightgreen)](https://www.hackerrank.com/imanilavaraju)
 
 ### CodeChef
-[![CodeChef](https://img.shields.io/badge/CodeChef-<your_username>-brightgreen)](https://www.codechef.com/users/lavaraju4149)
+[![CodeChef](https://img.shields.io/badge/CodeChef-lavaraju4149-brightgreen)](https://www.codechef.com/users/lavaraju4149)
 
 ---
-
-## 📫 How to Reach Me
-- **Email:** [mymail.com](mailto:imnanilavaraju@example.com)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/lavaraju-gorli/)
-- **GitHub:** [GitHub Profile](https://github.com/imlavaraju)
 
 
 <h3 align="left">Connect with me:</h3>
