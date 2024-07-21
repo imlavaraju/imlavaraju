@@ -4,7 +4,25 @@
 
 
 
- 📫 How to reach me <a href="mailto:imlavaraju@gmail.com">mail</a>
+
+ ## 🏆 Coding Profiles and Stats
+
+### LeetCode
+[![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/<your_leetcode_username>)](https://leetcode.com/lavarajug)
+
+### HackerRank
+[![HackerRank](https://img.shields.io/badge/HackerRank-<your_username>-brightgreen)](https://www.hackerrank.com/inanilavaraju)
+
+### CodeChef
+[![CodeChef](https://img.shields.io/badge/CodeChef-<your_username>-brightgreen)](https://www.codechef.com/users/lavaraju4149)
+
+---
+
+## 📫 How to Reach Me
+- **Email:** [mymail.com](mailto:imnanilavaraju@example.com)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/lavaraju-gorli/)
+- **GitHub:** [GitHub Profile](https://github.com/imlavaraju)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
