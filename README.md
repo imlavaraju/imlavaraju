@@ -13,10 +13,10 @@
  ## 🏆 Coding Profiles and Stats
 
 ### LeetCode
-[![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/lavarajug)](https://leetcode.com/u/lavarajug/)
+[![LeetCode Stats](https://img.shields.io/badge/Leetcode-lavaraju4149-brightgreen)](https://leetcode.com/u/lavarajug/)
 
 ### HackerRank
-[![HackerRank](https://img.shields.io/badge/HackerRank-imanilavaraju-brightgreen)](https://www.hackerrank.com/profile/imnanilavaraju)
+[![HackerRank](https://img.shields.io/badge/HackerRank-imnanilavaraju-brightgreen)](https://www.hackerrank.com/profile/imnanilavaraju)
 
 ### CodeChef
 [![CodeChef](https://img.shields.io/badge/CodeChef-lavaraju4149-brightgreen)](https://www.codechef.com/users/lavaraju4149)
