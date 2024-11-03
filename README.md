@@ -3,7 +3,7 @@
 
 
 ## 📫 How to Reach Me
-- **Email:** [mymail.com](mailto:imnanilavaraju@example.com)
+- **Email:** [myemail.com](mailto:imnanilavaraju@example.com)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/lavaraju-gorli/)
 - **GitHub:** [GitHub Profile](https://github.com/imlavaraju)
 
